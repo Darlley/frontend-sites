@@ -1,3 +1,5 @@
+"use client"
+
 type ShinyTextProps = {
   text?: string,
   disabled?: boolean,
